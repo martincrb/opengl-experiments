@@ -1,0 +1,4 @@
+*.o
+release
+Makefile
+.qmake.stash
